@@ -1,0 +1,6 @@
+gradio
+asyncflows
+scikit-learn
+joblib
+pymupdf
+PyPDF2
